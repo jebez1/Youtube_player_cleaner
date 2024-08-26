@@ -1,0 +1,1 @@
+{"manifest_version":3,"name":"Youtube uncrap","version":"1","content_scripts":[{"js":["!.js"],"matches":["https://www.youtube.com/watch?v=*"]}]}
