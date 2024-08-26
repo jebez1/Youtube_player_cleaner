@@ -3,7 +3,7 @@ Download the extension : https://download-directory.github.io/?url=https%3A%2F%2
 How to install an extension :
 https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world#load-unpacked
 
-Or on Falkon , Preferences , Extensions , GreaseMonkey , Settings , New user script : write the code of !.js .
+Or on Falkon , Preferences , Extensions , GreaseMonkey , Settings , New user script : write the code of Youtube uncrap/!.js .
 ( Yes there's openuserjs.org but at the time I write the website seems down , I can't sign up :
 429
 Too many requests.
