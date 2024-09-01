@@ -1,5 +1,5 @@
 // ==UserScript== 
-// @match       https://www.youtube.com/watch?v=*
+// @match https://www.youtube.com/watch?v=*
 // ==UserScript== 
 document.getElementsByClassName('ytp-gradient-top')[0].remove()
 document.getElementsByClassName('ytp-chrome-top')[0].remove()
