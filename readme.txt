@@ -9,5 +9,3 @@ On Falkon , Preferences , Extensions , GreaseMonkey , Settings , New user script
 429
 Too many requests.
 Please retry after approximately 86460 seconds. ) .
-
-Feel free to publish the Youtube uncrap extension .
